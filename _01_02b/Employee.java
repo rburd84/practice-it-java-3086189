@@ -13,7 +13,7 @@ public class Employee {
     // Create a variable called isAManager of type boolean and assign it the value
     // true.
     boolean isAManager = true;
-
+    
     // Print the isAManager variable to the console.
     System.out.println("Manager: " + isAManager);
 
